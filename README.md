@@ -2,7 +2,7 @@
 - 👀 I’m passionate about data analytics, automation, software development, biking, and skiing.
 - 🌱 Currently learning to work with large language models (LLMs).
 - 💞️ Open to collaborating on software and automation projects.
-- 📫 Reach me at [your preferred contact method].
+
 
 <!---
 Sim30n/Sim30n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
